@@ -6,7 +6,7 @@ sys.path.append(libs)
 from workflow import Workflow
 from bs4 import BeautifulSoup
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 def main(wf):
     url = "http://clojuredocs.org"
